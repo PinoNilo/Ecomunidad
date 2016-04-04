@@ -1,0 +1,260 @@
+.logo{
+	width: 100px;
+	height: 100px;
+}
+
+ul{
+	list-style-type: none;
+	padding-top: 34px;
+	margin: 0 -15px 0 0;
+	position: relative;
+	float: right;
+	font-size: 10px;
+	line-height: 10px;
+	text-transform: uppercase;
+	white-space: nowrap;
+}
+
+li{
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+	border-right: 1px solid black;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.bgr-gray{
+	background-color: #DCDCDC;
+	position: relative;
+	bottom: 23px;
+	height: 200px;
+
+}
+
+.text-center h6{
+	font-size: 10px;
+	color: #696969;
+	position: relative;
+	top: 70px;
+}
+
+.mision{
+	width: 100px;
+	height: 100px;
+}
+
+.mv{
+	text-align: center;
+	position: relative;
+	left: 18px;
+
+}
+
+.mv h1{
+	font-size: 16px;
+}
+
+.mv h6{
+	font-size: 9px;
+	color: #A9A9A9;
+}
+
+.fondo{
+	position: relative;
+	right: 24px;
+}
+
+.icono-ver{
+	position: relative;
+	bottom: 300px;
+	left: 950px;
+}
+
+.text-white{
+	position: relative;
+	bottom: 270px;
+	left: 700px;
+	text-align: center;
+	
+}
+
+.text-white p{
+	font-size: 10px;
+	top: 20px;
+	position: relative;
+	
+}
+
+.service{
+	text-align: center;
+}
+
+.service h1{
+	font-size: 15px;
+	position: relative;
+	bottom: 50px;
+}
+
+.service h6{
+	position: relative;
+	font-size: 10px;
+	color: #696969;
+	bottom: 40px;
+}
+
+
+.servicios{
+	width: 100px;
+	height: 100px;
+}
+
+.servicios-txt h1{
+	position: relative;
+	font-size: 12px;
+	text-align: center;
+	color: #5E8039;
+	bottom: 15px;
+}
+
+.servicios-txt p{
+	text-align: center;
+	color: #696969;
+	font-size: 8px;
+	
+}
+
+
+.bgr-green{
+	background-color: #5E8039;
+	position: relative;
+	height: 300px;
+}
+
+.foto{
+	width: 500px;
+	height: 250px;
+	position: relative;
+	top: 35px;
+}
+
+.white-txt{
+	color: white;
+	text-align: center;
+}
+
+.white-txt h1{
+	font-size: 13px;
+	position: relative;
+	top: 10px;
+	right: 90px;
+}
+
+.white-txt h2{
+	font-size: 12px;
+	position: relative;
+	top: 70px;
+}
+.white-txt h3{
+	font-size: 11px;
+	position: relative;
+	top: 80px;
+}
+
+.white-txt h6{
+	font-size: 8px;
+	position: relative;
+	top: 90px;
+}
+
+.foto4{
+	width: 500px;
+	height: 250px;
+}
+
+.equipos{
+	font-size: 10px;
+	color: #5E8039;
+	position: relative;
+	top: 50px;
+}
+
+.equipo{
+	width: 130px;
+	height: 130px;
+	-moz-border-radius: 70px;
+	-webkit-border-radius: 70px;
+	border-radius: 70px;
+	position: relative;
+	top: 60px;
+}
+
+.cargos{
+	text-align: center;
+	position: relative;
+	top: 60px;
+}
+
+.cargos h2{
+	font-size: 12px;
+
+}
+
+.cargos h4{
+	font-size: 10px;
+	position: relative;
+	
+}
+
+.cargos h6{
+	font-size: 8px;
+	color: #696969;
+	position: relative;
+	top: 2px;
+}
+
+.redes{
+	width: 20px;
+	height: 20px;
+	position: relative;
+	top: 80px;
+}
+
+.fondo2{
+	position: relative;
+	top: 100px;
+
+
+
+
+}
+
+.blogg h1{
+	font-size: 12px;
+	position: relative;
+	bottom: 320px;
+	
+}
+.blog{
+	position: relative;
+	bottom: 300px;
+}
+
+.post{
+	color: #696969;
+	position: relative;
+	bottom: 300px;
+}
+
+.post h1{
+	font-size: 15px;
+}
+
+.post h5{
+	font-size: 10px;
+}
+
+.post h6{
+	font-size: 8px;
+}
